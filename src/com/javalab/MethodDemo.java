@@ -13,7 +13,9 @@ public class MethodDemo {
 	}
 	
 	public static void main(String[] args) {
+		
 		MethodDemo demo = new MethodDemo();
 		System.out.println("The max value is: " + demo.max(3, 4));
+		
 	}
 }
